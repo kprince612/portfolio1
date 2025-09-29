@@ -136,8 +136,8 @@ const Portfolio = () => {
               applications that solve real-world problems.
             </p>
             <div className="cta-buttons">
-              <button className="btn btn-primary" onClick={() => scrollToSection('projects')}>
-                View My Work
+              <button className="btn btn-primary">
+                <a href="https://drive.google.com/file/d/1q15XqSjtDhz744K-zP_cJlM8gQBwKej4/view?usp=drivesdk" style={{ color: 'inherit', textDecoration: 'none' }}>Resume</a>
               </button>
               <button className="btn btn-outline" onClick={() => scrollToSection('contact')}>
                 Get In Touch
