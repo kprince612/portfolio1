@@ -138,7 +138,7 @@ const Portfolio = () => {
             </p>
             <div className="cta-buttons">
               <button className="btn btn-primary">
-                <a href="https://drive.google.com/file/d/1j4cnA4t8v01PHI1yGVHRRhnjia8_U1rO/view?usp=drivesdk" style={{ color: 'inherit', textDecoration: 'none' }}>Resume</a>
+                <a href="https://drive.google.com/file/d/1d55Ybg8hnLzLAbmxxVymm9G_ONtTLetB/view?usp=drivesdk" style={{ color: 'inherit', textDecoration: 'none' }}>Resume</a>
               </button>
               <button className="btn btn-outline" onClick={() => scrollToSection('contact')}>
                 Get In Touch
