@@ -26,6 +26,7 @@ const projects = [
     demoUrl: "https://chat-app1-psi.vercel.app/",
     githubUrl: "https://github.com/kprince612/ChatApp_Supabase",
   },
+  
   {
     id: 3,
     title: "Online Bus Booking Application",
