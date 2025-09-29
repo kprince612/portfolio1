@@ -16,6 +16,7 @@ const projects = [
     demoUrl: "https://great-indian-resturant-frontend.vercel.app/",
     githubUrl: "https://github.com/kprince612/Great-Indian-Resturant_frontend",
   },
+  
   {
     id: 2,
     title: "Chat Room Application",
